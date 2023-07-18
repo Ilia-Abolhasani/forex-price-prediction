@@ -31,3 +31,38 @@ You can install these packages using pip:
 
 ```bash
 pip install jupyter pandas numpy matplotlib tensorflow keras
+
+## Usage
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Ilia-Abolhasani/forex-price-prediction.git
+cd forex-price-prediction
+```
+
+1. Install the required dependencies as mentioned above.
+
+2. Open the Jupyter Notebook file, `forex_price_prediction.ipynb`, using Jupyter Notebook or Jupyter Lab.
+
+3. Follow the instructions provided in the notebook to preprocess the data, train the LSTM model, and make predictions.
+
+4. Feel free to modify the code and experiment with different hyperparameters to improve the model's performance.
+
+5. If you encounter any issues or have suggestions for improvements, please create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute the code in this repository for personal or commercial purposes. However, we provide no warranty or support for any potential consequences of using this code.
+
+Please see the [LICENSE](LICENSE) file for more details.
+
+## Contributing
+
+We welcome contributions to enhance the project! If you find any issues or have ideas for improvements, please create an issue or submit a pull request.
+
+## Acknowledgments
+
+We would like to thank the open-source community for their valuable contributions and support.
